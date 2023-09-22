@@ -6,6 +6,4 @@ The article also emphasizes the continued impact of **Cloud Computing**, promoti
 
 **Comment from Swostik Pati**: This comprehensive article brilliantly encapsulates the dynamic landscape of software development, making it a must-read for anyone aspiring to stay ahead of the curve in the tech industry.
 
-## Basil Ahmed's Comment:
-
-The article he's shared gives us a broad perspective of the newest tech that we are using in the real world. This article is a fantastic source for anyone to keep track of how the AI is taking over the tech world.
+**Basil Ahmed's Comment**: The article he's shared gives us a broad perspective of the newest tech that we are using in the real world. This article is a fantastic source for anyone to keep track of how the AI is taking over the tech world.
